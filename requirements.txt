@@ -1,0 +1,10 @@
+numpy==1.24.2
+pandas==2.0.0
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+jupyter==1.0.0
+ipykernel==6.22.0
+plotly==5.14.0
+xgboost==1.7.4
+shap==0.41.0 
