@@ -1,0 +1,2 @@
+# Fuel-Efficiency-Prediction-and-Analysis-for-Automotive-Insights
+Developed an end-to-end machine learning solution to predict vehicle fuel efficiency (MPG) using automotive specifications. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, regression model comparison, hyperparameter tuning, and feature importance analysis to support data-driven automotive design.
